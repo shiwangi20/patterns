@@ -1,0 +1,4 @@
+- Add valuable code
+- Don't spam
+- Add explaination with relevant examples in JS
+- Write modular, maintainable and readble code with proper comments
