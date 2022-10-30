@@ -26,7 +26,7 @@ function say() {
 }
 
 const employeeFactory = new EmployeeFactory()
-const employees = []
+const employees = [] //database in the form of array
 
 employees.push(employeeFactory.create("sam", 1))
 employees.push(employeeFactory.create("tom", 2))
